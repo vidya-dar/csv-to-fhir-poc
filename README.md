@@ -1,4 +1,4 @@
-# CSV-to-FHIR R4 ETL Pipeline (POC)
+# CSV-to-FHIR R4 Pipeline (POC)
 
 A production-style Proof of Concept (POC) demonstrating end-to-end data transformation from legacy tabular CSV datasets into standardized **HL7® FHIR® R4** JSON resources and bundle structures.
 
